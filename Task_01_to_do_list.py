@@ -73,5 +73,5 @@ if __name__ == "__main__":
             else:
                 print("Invalid choice. Please select a valid option.")
         except ValueError:
-            print("Please enter a valid number.")
+            print("Please Enter a valid number.")
 
